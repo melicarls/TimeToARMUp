@@ -2,12 +2,16 @@
     <iq:application entry="TimeToARMUpApp" id="9C0969F11CA2435DA0B6648B17344625" launcherIcon="@Drawables.LauncherIcon" minSdkVersion="1.2.0" name="@Strings.AppName" type="watchface">
 
         <iq:products>
+            <iq:product id="fr630"/>
             <iq:product id="fr235"/>
+            <iq:product id="fr735xt"/>
             <iq:product id="fr230"/>
+            <iq:product id="vivoactive"/>
+            <iq:product id="fr920xt"/>
+            <iq:product id="epix"/>
         </iq:products>
 
-        <iq:permissions>
-        </iq:permissions>
+        <iq:permissions/>
 
         <iq:languages>
             <iq:language>eng</iq:language>

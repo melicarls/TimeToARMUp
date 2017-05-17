@@ -35,7 +35,7 @@ class TimeToARMUpView extends Ui.WatchFace {
  	var batteryY;
  	var sloganX;
  	var sloganY;
- 		
+ 	var sloganSize;
     // Update the view
     
 	function onUpdate(dc) {
@@ -76,19 +76,30 @@ class TimeToARMUpView extends Ui.WatchFace {
  		
         if (screenType == Sys.SCREEN_SHAPE_RECTANGLE) {
         	// Rectangle layout
-
+        	backgroundX = -8;
+        	backgroundY = 50;
+        	dateX = 105;
+        	dateY = 2;
+        	timeX = 105;
+        	timeY = 33;
+        	batteryX = 185;
+        	batteryY = 115;
+        	sloganX = 105;
+        	sloganY = 125;
+        	sloganSize = Gfx.FONT_SMALL;
         } else {
         	// Round screen layout
         	backgroundX = 0;
         	backgroundY = 60;
         	dateX = 105;
-        	dateY = 5;
+        	dateY = 3;
         	timeX = 105;
         	timeY = 18;
-        	batteryX;
-        	batteryY;
+        	batteryX = 175;
+        	batteryY = 35;
         	sloganX = 105;
         	sloganY = 150;
+        	sloganSize = Gfx.FONT_MEDIUM;
         }
 
 		// Draw layout
@@ -98,7 +109,7 @@ class TimeToARMUpView extends Ui.WatchFace {
         dc.drawBitmap(backgroundX, backgroundY, background);
 
 		// Draw the slogan
-		dc.drawText(sloganX, sloganY, Gfx.FONT_MEDIUM, "Time to ARM up!", Gfx.TEXT_JUSTIFY_CENTER);
+		dc.drawText(sloganX, sloganY, sloganSize, "Time to ARM up!", Gfx.TEXT_JUSTIFY_CENTER);
 		
 		// Draw the time
 		dc.drawText(dateX, dateY, Gfx.FONT_MEDIUM, dateString, Gfx.TEXT_JUSTIFY_CENTER);
@@ -113,7 +124,7 @@ class TimeToARMUpView extends Ui.WatchFace {
 			dc.setColor(Gfx.COLOR_RED, Gfx.COLOR_TRANSPARENT);
 		}
 		
-		dc.drawText(175, 35, Gfx.FONT_XTINY, batteryString, Gfx.TEXT_JUSTIFY_CENTER);
+		dc.drawText(batteryX, batteryY, Gfx.FONT_XTINY, batteryString, Gfx.TEXT_JUSTIFY_CENTER);
 	}
 
 

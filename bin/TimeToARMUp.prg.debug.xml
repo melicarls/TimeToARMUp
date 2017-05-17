@@ -1,69 +1,81 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="10" pc="268435456" symbol="initialize"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="11" pc="268435460" symbol="initialize"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="16" pc="268435479" symbol="onLayout"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="17" pc="268435483" symbol="onLayout"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="18" pc="268435526" symbol="onLayout"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="24" pc="268435564" symbol="onShow"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="41" pc="268435569" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="43" pc="268435573" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="44" pc="268435585" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="45" pc="268435621" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="48" pc="268435665" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="51" pc="268435694" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="52" pc="268435711" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="54" pc="268435721" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="55" pc="268435765" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="56" pc="268435775" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="57" pc="268435785" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="59" pc="268435795" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="61" pc="268435819" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="62" pc="268435844" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="63" pc="268435861" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="67" pc="268435883" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="68" pc="268435931" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="70" pc="268435989" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="71" pc="268436021" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="74" pc="268436059" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="75" pc="268436072" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="77" pc="268436085" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="82" pc="268436112" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="83" pc="268436125" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="84" pc="268436138" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="85" pc="268436151" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="86" pc="268436164" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="87" pc="268436177" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="88" pc="268436190" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="89" pc="268436199" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="90" pc="268436208" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="91" pc="268436221" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="95" pc="268436234" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="98" pc="268436270" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="101" pc="268436306" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="104" pc="268436363" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="105" pc="268436417" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="108" pc="268436471" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="109" pc="268436482" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="111" pc="268436532" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="113" pc="268436571" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="116" pc="268436607" symbol="onUpdate"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="123" pc="268436656" symbol="onHide"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="127" pc="268436661" symbol="onExitSleep"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="131" pc="268436666" symbol="onEnterSleep"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpApp.mc" lineNum="5" pc="268436671" symbol="initialize"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpApp.mc" lineNum="6" pc="268436675" symbol="initialize"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpApp.mc" lineNum="10" pc="268436694" symbol="onStart"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpApp.mc" lineNum="14" pc="268436699" symbol="onStop"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpApp.mc" lineNum="18" pc="268436704" symbol="getInitialView"/>
-<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpApp.mc" lineNum="19" pc="268436708" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="19" pc="268436746" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="21" pc="268436750" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="22" pc="268436913" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="23" pc="268436938" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="24" pc="268436990" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="27" pc="268437036" symbol="WatchFace"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="10" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="11" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="16" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="17" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="18" pc="268435526" symbol="onLayout"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="24" pc="268435564" symbol="onShow"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="41" pc="268435569" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="43" pc="268435573" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="44" pc="268435585" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="45" pc="268435621" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="48" pc="268435665" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="51" pc="268435694" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="52" pc="268435711" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="54" pc="268435721" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="55" pc="268435765" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="56" pc="268435775" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="57" pc="268435785" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="59" pc="268435795" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="61" pc="268435819" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="62" pc="268435844" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="63" pc="268435861" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="67" pc="268435883" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="68" pc="268435931" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="70" pc="268435989" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="71" pc="268436021" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="74" pc="268436059" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="75" pc="268436072" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="77" pc="268436085" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="79" pc="268436109" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="80" pc="268436122" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="81" pc="268436135" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="82" pc="268436148" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="83" pc="268436161" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="84" pc="268436174" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="85" pc="268436187" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="86" pc="268436200" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="87" pc="268436213" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="88" pc="268436226" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="89" pc="268436239" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="92" pc="268436262" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="93" pc="268436275" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="94" pc="268436288" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="95" pc="268436301" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="96" pc="268436314" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="97" pc="268436327" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="98" pc="268436340" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="99" pc="268436353" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="100" pc="268436366" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="101" pc="268436379" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="102" pc="268436392" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="106" pc="268436412" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="109" pc="268436448" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="112" pc="268436484" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="115" pc="268436537" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="116" pc="268436591" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="119" pc="268436645" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="120" pc="268436656" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="122" pc="268436706" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="124" pc="268436745" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="127" pc="268436781" symbol="onUpdate"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="134" pc="268436836" symbol="onHide"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="138" pc="268436841" symbol="onExitSleep"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="142" pc="268436846" symbol="onEnterSleep"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpApp.mc" lineNum="5" pc="268436851" symbol="initialize"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpApp.mc" lineNum="6" pc="268436855" symbol="initialize"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpApp.mc" lineNum="10" pc="268436874" symbol="onStart"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpApp.mc" lineNum="14" pc="268436879" symbol="onStop"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpApp.mc" lineNum="18" pc="268436884" symbol="getInitialView"/>
+<entry filename="/Users/melissa/dev/garmin/TimeToARMUp/source/TimeToARMUpApp.mc" lineNum="19" pc="268436888" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="19" pc="268436926" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="21" pc="268436930" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="22" pc="268437093" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="23" pc="268437118" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="24" pc="268437170" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="27" pc="268437216" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389124" method="true" symbol="onUpdate"/>
@@ -88,6 +100,7 @@
 <entry id="8389375" method="true" symbol="WatchFace"/>
 <entry field="true" id="14" symbol="screenType"/>
 <entry field="true" id="12" symbol="LauncherIcon"/>
+<entry field="true" id="25" symbol="sloganSize"/>
 <entry field="true" id="16" symbol="backgroundY"/>
 <entry field="true" id="15" symbol="backgroundX"/>
 <entry id="8389281" method="true" symbol="onStop"/>
@@ -110,21 +123,21 @@
 <entry id="8388772" module="true" symbol="Fonts"/>
 </symbolTable>
 <localVars>
-<entry endPc="268436655" name="timeString" stackId="9" startPc="268435573"/>
-<entry endPc="268436655" name="batteryString" stackId="12" startPc="268435573"/>
-<entry endPc="268436655" name="clockMinute" stackId="8" startPc="268435573"/>
-<entry endPc="268436655" name="dayOfWeek" stackId="5" startPc="268435573"/>
-<entry endPc="268436655" name="clockTime" stackId="2" startPc="268435573"/>
-<entry endPc="268436655" name="clockHour" stackId="3" startPc="268435573"/>
-<entry endPc="268436655" name="month" stackId="6" startPc="268435573"/>
-<entry endPc="268436655" name="y" stackId="14" startPc="268435573"/>
-<entry endPc="268436655" name="day" stackId="7" startPc="268435573"/>
-<entry endPc="268436655" name="x" stackId="13" startPc="268435573"/>
-<entry endPc="268436655" name="dateString" stackId="10" startPc="268435573"/>
-<entry endPc="268436655" name="batteryStatus" stackId="11" startPc="268435573"/>
-<entry endPc="268436655" name="todaysDate" stackId="4" startPc="268435573"/>
-<entry endPc="268437053" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268436750"/>
-<entry endPc="268437053" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268436750"/>
+<entry endPc="268436835" name="timeString" stackId="9" startPc="268435573"/>
+<entry endPc="268436835" name="batteryString" stackId="12" startPc="268435573"/>
+<entry endPc="268436835" name="clockMinute" stackId="8" startPc="268435573"/>
+<entry endPc="268436835" name="dayOfWeek" stackId="5" startPc="268435573"/>
+<entry endPc="268436835" name="clockTime" stackId="2" startPc="268435573"/>
+<entry endPc="268436835" name="clockHour" stackId="3" startPc="268435573"/>
+<entry endPc="268436835" name="month" stackId="6" startPc="268435573"/>
+<entry endPc="268436835" name="y" stackId="14" startPc="268435573"/>
+<entry endPc="268436835" name="day" stackId="7" startPc="268435573"/>
+<entry endPc="268436835" name="x" stackId="13" startPc="268435573"/>
+<entry endPc="268436835" name="dateString" stackId="10" startPc="268435573"/>
+<entry endPc="268436835" name="batteryStatus" stackId="11" startPc="268435573"/>
+<entry endPc="268436835" name="todaysDate" stackId="4" startPc="268435573"/>
+<entry endPc="268437233" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268436930"/>
+<entry endPc="268437233" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268436930"/>
 </localVars>
 <annotations/>
 <functions>
