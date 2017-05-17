@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="10" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="11" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="16" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="17" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="18" pc="268435526" symbol="onLayout"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="24" pc="268435564" symbol="onShow"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="41" pc="268435569" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="43" pc="268435573" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="44" pc="268435585" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="45" pc="268435621" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="48" pc="268435665" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="51" pc="268435694" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="52" pc="268435711" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="54" pc="268435721" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="55" pc="268435765" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="56" pc="268435775" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="57" pc="268435785" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="59" pc="268435795" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="61" pc="268435819" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="62" pc="268435844" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="63" pc="268435861" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="67" pc="268435883" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="68" pc="268435931" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="70" pc="268435989" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="71" pc="268436021" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="74" pc="268436059" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="75" pc="268436072" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="77" pc="268436085" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="82" pc="268436112" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="83" pc="268436125" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="84" pc="268436138" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="85" pc="268436151" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="86" pc="268436164" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="87" pc="268436177" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="88" pc="268436190" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="89" pc="268436199" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="90" pc="268436208" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="91" pc="268436221" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="95" pc="268436234" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="98" pc="268436270" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="101" pc="268436306" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="104" pc="268436363" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="105" pc="268436417" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="108" pc="268436471" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="109" pc="268436482" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="111" pc="268436532" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="113" pc="268436571" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="116" pc="268436607" symbol="onUpdate"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="123" pc="268436656" symbol="onHide"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="127" pc="268436661" symbol="onExitSleep"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpView.mc" lineNum="131" pc="268436666" symbol="onEnterSleep"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpApp.mc" lineNum="5" pc="268436671" symbol="initialize"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpApp.mc" lineNum="6" pc="268436675" symbol="initialize"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpApp.mc" lineNum="10" pc="268436694" symbol="onStart"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpApp.mc" lineNum="14" pc="268436699" symbol="onStop"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpApp.mc" lineNum="18" pc="268436704" symbol="getInitialView"/>
+<entry filename="/Users/melissawithpillow/Documents/workspace/TimeToARMUp/source/TimeToARMUpApp.mc" lineNum="19" pc="268436708" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="19" pc="268436746" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="21" pc="268436750" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="22" pc="268436913" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="23" pc="268436938" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="24" pc="268436990" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="27" pc="268437036" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8" object="true" symbol="TimeToARMUpView"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388645" symbol="Time"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="22" symbol="batteryY"/>
+<entry field="true" id="21" symbol="batteryX"/>
+<entry field="true" id="18" symbol="dateY"/>
+<entry field="true" id="17" symbol="dateX"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="20" symbol="timeY"/>
+<entry field="true" id="19" symbol="timeX"/>
+<entry field="true" id="13" symbol="AppName"/>
+<entry id="8389375" method="true" symbol="WatchFace"/>
+<entry field="true" id="14" symbol="screenType"/>
+<entry field="true" id="12" symbol="LauncherIcon"/>
+<entry field="true" id="16" symbol="backgroundY"/>
+<entry field="true" id="15" symbol="backgroundX"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="8389892" symbol="background"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="9" object="true" symbol="TimeToARMUpApp"/>
+<entry field="true" id="24" symbol="sloganY"/>
+<entry field="true" id="23" symbol="sloganX"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436655" name="timeString" stackId="9" startPc="268435573"/>
+<entry endPc="268436655" name="batteryString" stackId="12" startPc="268435573"/>
+<entry endPc="268436655" name="clockMinute" stackId="8" startPc="268435573"/>
+<entry endPc="268436655" name="dayOfWeek" stackId="5" startPc="268435573"/>
+<entry endPc="268436655" name="clockTime" stackId="2" startPc="268435573"/>
+<entry endPc="268436655" name="clockHour" stackId="3" startPc="268435573"/>
+<entry endPc="268436655" name="month" stackId="6" startPc="268435573"/>
+<entry endPc="268436655" name="y" stackId="14" startPc="268435573"/>
+<entry endPc="268436655" name="day" stackId="7" startPc="268435573"/>
+<entry endPc="268436655" name="x" stackId="13" startPc="268435573"/>
+<entry endPc="268436655" name="dateString" stackId="10" startPc="268435573"/>
+<entry endPc="268436655" name="batteryStatus" stackId="11" startPc="268435573"/>
+<entry endPc="268436655" name="todaysDate" stackId="4" startPc="268435573"/>
+<entry endPc="268437053" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268436750"/>
+<entry endPc="268437053" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268436750"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="TimeToARMUpView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="TimeToARMUpView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="TimeToARMUpView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="TimeToARMUpView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="TimeToARMUpView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="TimeToARMUpView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="TimeToARMUpView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="TimeToARMUpApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="TimeToARMUpApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="TimeToARMUpApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="TimeToARMUpApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
